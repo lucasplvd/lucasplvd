@@ -12,9 +12,9 @@ Commercial Engineer (MSc Finance) building automation tools for Chilean accounti
 
 ### What I've shipped
 
-- **[conciliacion-bancaria-chile](https://github.com/lucasplvd/conciliacion-bancaria-chile)** — Multi-pass bank reconciliation engine for Chilean SMEs. Matches bank movements against SII sources (LC, LV, Remuneraciones, BHE) using RUT → keyword → amount → date passes with dynamic scoring.
-- **[cobranza-whatsapp-agent](https://github.com/lucasplvd/cobranza-whatsapp-agent)** — Automated debt collection system. Reads ERP export, sends personalized WhatsApp messages via Twilio + Claude. Deployed at SUR Consulting.
-- **[clasificador-facturas-ifrs](https://github.com/lucasplvd/clasificador-facturas-ifrs)** — Invoice classifier that maps Chilean invoices to IFRS chart of accounts. Entry point for the ReportIA pipeline.
+- **[conciliacion-bancaria-chile](https://github.com/lucasplvd/conciliacion-bancaria-chile)**
+- **[cobranza-whatsapp-agent](https://github.com/lucasplvd/cobranza-whatsapp-agent)**
+- **[clasificador-facturas-ifrs](https://github.com/lucasplvd/clasificador-facturas-ifrs)**
 
 ---
 
